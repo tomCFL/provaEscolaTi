@@ -40,9 +40,7 @@ Body `{"placa": "...", "entrada": "..."(opcional)}`. Sem `entrada`, usa o relóg
 - **Aceite**: segundo encerramento do mesmo id → 409 bilhete_ja_encerrado; id inexistente → 404.
 - **Aceite**: bilhete cancelado → 409 bilhete_ja_encerrado.
 - Cálculo exato em `constitution.md` (fórmulas normativas). Valor sempre inteiro; teto 8000.
-
-> [!WARNING]
-> O teto de 8000 centavos é aplicado SEMPRE depois do cálculo bruto. Esquecê-lo é o erro mais comum.
+- O teto de 8000 centavos é aplicado SEMPRE depois do cálculo bruto.
 
 ## UC3 — GET /bilhetes/ativos
 200 com array de bilhetes `aberto` (campos de UC1), ordenado por entrada decrescente, desempate por id decrescente. Vazio → `[]`.
