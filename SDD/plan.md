@@ -19,4 +19,4 @@
 
 ## Requisitos de qualidade do código gerado
 README com execução e testes; testes unitários de `regras.py` cobrindo a tabela de `tests.md`; `.gitignore`; `Containerfile` com `USER` não-root; linter (ruff) sem avisos.
-centavos: Centavos inteiros eliminam a classe de erro de ponto flutuante em dinheiro.
+[^centavos]: Centavos inteiros eliminam a classe de erro de ponto flutuante em dinheiro.
