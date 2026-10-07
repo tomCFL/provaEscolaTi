@@ -2,9 +2,9 @@
 
 # ALUNO
 
-Nome: tomCFL
+Nome: Antonio Ferreira de Lima
 
-RA: >>> PREENCHER <<<
+RA: 23038173-2
 
 Conta GitHub: @tomCFL
 
