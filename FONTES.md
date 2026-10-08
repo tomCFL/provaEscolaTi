@@ -16,7 +16,7 @@
 
 | # | URL | O que foi consultado | Onde aparece no entregável |
 | --- | --- | --- | --- |
-| — | | | |
+| 1— |"Nenhum site consultado." | | |
 
 *(Ex.: `https://docs.oracle.com/...` → sintaxe de `Optional` → `plan.md` na
 seção de decisões. Esse link é ILUSTRATIVO — fora de linha numerada não
@@ -38,7 +38,7 @@ conta. Se nenhum site foi consultado, escreva: **"Nenhum site consultado."**)*
 
 | # | Link público da conversa | Onde o conteúdo foi usado |
 | --- | --- | --- |
-| — | | |
+| 1— |https://chat.deepseek.com/share/qzpyrtqtduwluo0d6f | auxilio no desenvolvimento, gramatica, estrtura, e precoreção |
 
 *(Se nenhuma IA foi utilizada, escreva: **"Nenhuma IA utilizada."**)*
 
@@ -48,7 +48,7 @@ Declaro que todo o conteúdo deste repositório que não é de minha autoria dir
 está declarado acima, e que consigo explicar qualquer trecho entregue — tenha
 ele vindo da minha cabeça, de um site ou de uma IA consultada.
 
-**Nome / RA:**
+**Antonio Ferreira de Lima/230381732**
 
 [^transparencia]: Este arquivo é, ele mesmo, um exemplo de markdown bem
     usado: *alert* para a regra crítica, tabelas para os registros e *footnote*
